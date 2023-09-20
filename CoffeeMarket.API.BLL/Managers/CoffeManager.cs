@@ -6,7 +6,7 @@ namespace CoffeeMarket.API.BLL.Managers
 {
 	public class CoffeManager : ICoffeeManager
 	{
-		private readonly ICoffeeService _coffeeService;
+		private  ICoffeeService _coffeeService;
 		public CoffeManager(ICoffeeService coffeeService)
 		{
 			_coffeeService = coffeeService;
@@ -25,6 +25,12 @@ namespace CoffeeMarket.API.BLL.Managers
 			return response;
 		}
 
+		public async Task<CoffeeResponse> GetById(object id)
+		{
+			var res = await _coffeeService.GetByIdAsync(id);
+			var result = new CoffeeResponse(res);
+			return result;
 
+		}
 	}
 }

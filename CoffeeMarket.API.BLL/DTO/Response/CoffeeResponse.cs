@@ -16,12 +16,13 @@ namespace CoffeeMarket.API.BLL.DTO.Response
             price = coffee.PR_Price;
             listImage = coffee.PR_ListImage;
             detailImage = coffee.PR_DetailImage;
-            
+            spotDetail = coffee.PR_SpotDetail;
         }
         public Guid id { get; set; }
 		public string name { get; set; }
         public string price { get; set; }
         public string listImage { get; set; }
         public string detailImage { get; set; }
+        public string spotDetail { get; set; }
     }
 }

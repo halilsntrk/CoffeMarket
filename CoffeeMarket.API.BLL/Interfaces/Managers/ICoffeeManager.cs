@@ -10,5 +10,7 @@ namespace CoffeeMarket.API.BLL.Interfaces.Managers
 	public interface ICoffeeManager
 	{
 		public  Task<List<CoffeeResponse>> GetAll();
+
+		public Task<CoffeeResponse> GetById(object id);
 	}
 }

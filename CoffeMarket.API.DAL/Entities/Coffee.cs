@@ -9,5 +9,6 @@ namespace CoffeeMarket.API.DAL.Entities
         public string PR_Price { get; set; }
         public string PR_ListImage { get; set; }
         public string PR_DetailImage { get; set; }
+        public string PR_SpotDetail { get; set; }
     }
 }

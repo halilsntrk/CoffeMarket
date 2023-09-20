@@ -75,9 +75,6 @@ D:\Git\CoffeeMarket\CoffeeMarket.API\obj\Debug\net7.0\CoffeeMarket.API.pdb
 D:\Git\CoffeeMarket\CoffeeMarket.API\obj\Debug\net7.0\CoffeeMarket.API.genruntimeconfig.cache
 D:\Git\CoffeeMarket\CoffeeMarket.API\obj\Debug\net7.0\ref\CoffeeMarket.API.dll
 D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\Dapper.dll
-D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\MicroReflection.dll
-D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\SqlMapper.dll
-D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\SqlMapper.Common.dll
 D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\System.Data.SqlClient.dll
 D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
 D:\Git\CoffeeMarket\CoffeeMarket.API\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll

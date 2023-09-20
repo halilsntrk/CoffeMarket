@@ -31,13 +31,15 @@ namespace CoffeeMarket.API.BLL.Services
 		{
 
 			var sql = "SELECT * FROM Coffee";
-			var coffee = await DbQueryAsync<Coffee>(sql);
-			return coffee;
+			var coffees = await DbQueryAsync<Coffee>(sql);
+			return coffees;
 		}
 
-		public Task<Coffee> GetByIdAsync(object id)
+		public async Task<Coffee> GetByIdAsync(object id)
 		{
-			throw new NotImplementedException();
+			var sql = "SELECT * FROM Coffee WHERE PR_ID = @PR_ID ";
+			var coffee = await DbQuerySingleAsync<Coffee>(sql,new {PR_ID = id});
+			return coffee;
 		}
 
 		public Task<bool> UpdateAsync(Coffee entity)
