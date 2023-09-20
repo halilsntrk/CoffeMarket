@@ -1,0 +1,12 @@
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\bin\Debug\net7.0\CoffeMarket.API.DAL.deps.json
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\bin\Debug\net7.0\CoffeMarket.API.DAL.dll
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\bin\Debug\net7.0\CoffeMarket.API.DAL.pdb
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.csproj.AssemblyReference.cache
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.AssemblyInfoInputs.cache
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.AssemblyInfo.cs
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.csproj.CoreCompileInputs.cache
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.dll
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\refint\CoffeMarket.API.DAL.dll
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\CoffeMarket.API.DAL.pdb
+D:\Git\CoffeeMarket\CoffeMarket.API.DAL\obj\Debug\net7.0\ref\CoffeMarket.API.DAL.dll
