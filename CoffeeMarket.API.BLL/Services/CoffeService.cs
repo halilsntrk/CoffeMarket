@@ -31,8 +31,8 @@ namespace CoffeeMarket.API.BLL.Services
 		{
 
 			var sql = "SELECT * FROM Coffee";
-			var Coffee = await DbQueryAsync<Coffee>(sql);
-			return Coffee;
+			var coffee = await DbQueryAsync<Coffee>(sql);
+			return coffee;
 		}
 
 		public Task<Coffee> GetByIdAsync(object id)

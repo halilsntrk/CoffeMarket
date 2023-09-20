@@ -17,9 +17,9 @@ namespace CoffeeMarket.API.BLL.Managers
 			var response = new List<CoffeeResponse>();
 			var res = await _coffeeService.GetAllAsync();
 
-			foreach ( var item in res)
+			foreach ( var coffee in res)
 			{
-				var newitem = new CoffeeResponse();
+				var newitem = new CoffeeResponse(coffee);
 				response.Add(newitem);
 			}
 			return response;
