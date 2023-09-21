@@ -8,26 +8,26 @@ namespace CoffeeMarket.API.Controllers
 	[ApiController]
 	public class ProductController : ControllerBase
 	{
-		private  ICoffeeManager _coffeeManager;
+		private  IProductManager _productManager;
 
-		public ProductController(ICoffeeManager coffeeManager)
+		public ProductController(IProductManager productManager)
 		{
-			_coffeeManager = coffeeManager;
+			_productManager = productManager;
 		}
 
 		[HttpPost("list")]
 		[ProducesResponseType(typeof(ApiResponse), 200)]
 		public async Task<ApiResponse> List()
 		{
-			var res = await _coffeeManager.GetAll();
+			var res = await _productManager.GetAll();
 			return new ApiResponse("", new { status = true, data = res }, 200);
 		}
 
-		[HttpPost("getCoffee")]
+		[HttpPost("getProduct")]
 		[ProducesResponseType(typeof(ApiResponse), 200)]
-		public async Task<ApiResponse> GetCoffeeDetail(string id)
+		public async Task<ApiResponse> GetProducteDetail(string id)
 		{
-			var res = await _coffeeManager.GetById(id);
+			var res = await _productManager.GetById(id);
 			return new ApiResponse("", new { status = true, data = res }, 200);
 		}
 

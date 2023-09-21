@@ -9,8 +9,8 @@ namespace CoffeeMarket.API.BLL.Interfaces.Managers
 {
 	public interface ITypeManager
 	{
-		public Task<List<CoffeeTypeResponse>> GetAll();
+		public Task<List<ProductTypeResponse>> GetAll();
 
-		public Task<CoffeeTypeResponse> GetById(object id);
+		public Task<ProductTypeResponse> GetById(object id);
 	}
 }

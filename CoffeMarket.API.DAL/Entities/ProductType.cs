@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CoffeMarket.API.DAL.Entities
 {
-	public class CoffeeType
+	public class ProductType
 	{
         public Guid TypeID { get; set; }
         public string TypeName { get; set; }

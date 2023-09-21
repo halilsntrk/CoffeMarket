@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CoffeeMarket.API.BLL.Interfaces.Services
 {
-	public interface ITypeService : IRepository<CoffeeType>
+	public interface ITypeService : IRepository<ProductType>
 	{
 	}
 }

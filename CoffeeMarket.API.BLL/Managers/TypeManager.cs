@@ -19,24 +19,24 @@ namespace CoffeeMarket.API.BLL.Managers
 			_typeService = typeService;
 		}
 
-		public async Task<List<CoffeeTypeResponse>> GetAll()
+		public async Task<List<ProductTypeResponse>> GetAll()
 		{
 
-			var response = new List<CoffeeTypeResponse>();
+			var response = new List<ProductTypeResponse>();
 			var res = await _typeService.GetAllAsync();
 
 			foreach (var type in res)
 			{
-				var newitem = new CoffeeTypeResponse(type);
+				var newitem = new ProductTypeResponse(type);
 				response.Add(newitem);
 			}
 			return response;
 		}
 
-		public async Task<CoffeeTypeResponse> GetById(object id)
+		public async Task<ProductTypeResponse> GetById(object id)
 		{
 			var res = await _typeService.GetByIdAsync(id);
-			var result = new CoffeeTypeResponse(res);
+			var result = new ProductTypeResponse(res);
 			return result;
 		}
 

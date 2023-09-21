@@ -18,7 +18,7 @@ namespace CoffeeMarket.API.BLL.Services
 
 		}
 
-		public Task<CoffeeType> CreateAsync(CoffeeType entity)
+		public Task<ProductType> CreateAsync(ProductType entity)
 		{
 			throw new NotImplementedException();
 		}
@@ -33,19 +33,19 @@ namespace CoffeeMarket.API.BLL.Services
 			throw new NotImplementedException();
 		}
 
-		public Task<IEnumerable<CoffeeType>> GetAllAsync()
+		public Task<IEnumerable<ProductType>> GetAllAsync()
 		{
 			throw new NotImplementedException();
 		}
 
-		public async Task<CoffeeType> GetByIdAsync(object id)
+		public async Task<ProductType> GetByIdAsync(object id)
 		{
-			var sql = "SELECT * FROM CoffeeType WHERE TypeID = @TypeId";
-			var type = await DbQuerySingleAsync<CoffeeType>(sql, new { TypeID = id });
+			var sql = "SELECT * FROM ProductType WHERE TypeID = @TypeId";
+			var type = await DbQuerySingleAsync<ProductType>(sql, new { TypeID = id });
 			return type;
 		}
 
-		public Task<bool> UpdateAsync(CoffeeType entity)
+		public Task<bool> UpdateAsync(ProductType entity)
 		{
 			throw new NotImplementedException();
 		}

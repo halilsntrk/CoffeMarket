@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace CoffeeMarket.API.BLL.Interfaces.Managers
 {
-	public interface ICoffeeManager
+	public interface IProductManager
 	{
-		public  Task<List<CoffeeResponse>> GetAll();
+		public  Task<List<ProductResponse>> GetAll();
 
-		public Task<CoffeeResponse> GetById(object id);
+		public Task<ProductResponse> GetById(object id);
 	}
 }

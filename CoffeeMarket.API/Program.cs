@@ -13,8 +13,8 @@ namespace CoffeeMarket.API
 
 			// Add services to the container.
 	
-			builder.Services.AddScoped<ICoffeeManager, CoffeManager>();
-			builder.Services.AddScoped<ICoffeeService, CoffeService>();
+			builder.Services.AddScoped<IProductManager, ProductManager>();
+			builder.Services.AddScoped<IProductService, ProductService>();
 			builder.Services.AddScoped<ITypeManager, TypeManager>();
 			builder.Services.AddScoped<ITypeService, TypeService>();
 			builder.Services.AddControllers();

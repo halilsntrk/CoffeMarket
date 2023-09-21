@@ -7,12 +7,12 @@ using System.Threading.Tasks;
 
 namespace CoffeeMarket.API.BLL.DTO.Response
 {
-	public class CoffeeTypeResponse
+	public class ProductTypeResponse
 	{
-        public CoffeeTypeResponse(CoffeeType type)
+        public ProductTypeResponse(ProductType productType)
         {
-            id = type.TypeID;
-            name = type.TypeName;
+            id = productType.TypeID;
+            name = productType.TypeName;
         }
         public Guid id { get; set; }
         public string name { get; set; }
