@@ -10,5 +10,6 @@ namespace CoffeeMarket.API.BLL.Interfaces.Services
 {
 	public interface IProductService : IRepository<Product>
 	{
+		public Task<IEnumerable<Product>> GetByTypeId(string typeId);
 	}
 }

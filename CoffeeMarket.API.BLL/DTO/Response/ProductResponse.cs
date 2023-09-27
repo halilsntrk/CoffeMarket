@@ -15,6 +15,7 @@ namespace CoffeeMarket.API.BLL.DTO.Response
             productId = product.PR_ProductID;
             typeId = product.PR_TypeID;
             name = product.PR_Name;
+            grammage = product.PR_Grammage;
             price = product.PR_Price;
             listImage = product.PR_ListImage;
             detailImage = product.PR_DetailImage;
@@ -24,6 +25,7 @@ namespace CoffeeMarket.API.BLL.DTO.Response
         public string productId { get; set; }
         public string typeId { get; set; }
         public string name { get; set; }
+        public string grammage { get; set; }
         public string price { get; set; }
         public string listImage { get; set; }
         public string detailImage { get; set; }
