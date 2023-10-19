@@ -73,7 +73,7 @@ namespace CoffeeMarket.API.BLL.Managers
 
 		}
 
-		
+	
 	}
 }
 	

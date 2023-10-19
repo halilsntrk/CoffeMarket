@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UymRdtA18x8c7o41/ANsDMn4h/UJdwE9vRkgnhi3BA03x56lKsBNfFgxFlke6WKq6z1hGsM4dAtbeeM1BqnBEw==",
+  "dgSpecHash": "IUT/H+wJR0IG+M8q3rP3s235E4AdKJYCeRtTF4HguajWGo7t3hDRcGkm3evzdBR8lHVxw03ZBkPL64AH1MNAlg==",
   "success": true,
-  "projectFilePath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
+  "projectFilePath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halil\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\halil\\.nuget\\packages\\microsoft.aspnetcore.hosting\\2.2.7\\microsoft.aspnetcore.hosting.2.2.7.nupkg.sha512",

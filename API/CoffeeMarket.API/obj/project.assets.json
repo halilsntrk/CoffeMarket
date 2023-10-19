@@ -4105,11 +4105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
+      "projectUniqueName": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
       "projectName": "CoffeeMarket.API",
-      "projectPath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
+      "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
       "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API\\obj\\",
+      "outputPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4127,8 +4127,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
-              "projectPath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj"
+            "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
+              "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj"
             }
           }
         }

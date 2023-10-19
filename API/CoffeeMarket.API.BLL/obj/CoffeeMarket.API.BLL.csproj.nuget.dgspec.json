@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {}
+    "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {}
   },
   "projects": {
-    "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
+    "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
+        "projectUniqueName": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
         "projectName": "CoffeeMarket.API.BLL",
-        "projectPath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
+        "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API.BLL\\obj\\",
+        "outputPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
-                "projectPath": "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj"
+              "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
+                "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
+    "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
+        "projectUniqueName": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
         "projectName": "CoffeMarket.API.DAL",
-        "projectPath": "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
+        "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\obj\\",
+        "outputPath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",

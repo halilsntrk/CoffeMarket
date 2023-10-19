@@ -17,6 +17,7 @@ namespace CoffeeMarket.API.BLL
 		public static IServiceCollection AddBLLServices(this IServiceCollection services,IConfiguration configuration)
 		{
 			services.AddScoped<IProductService, ProductService>();
+			services.AddScoped<IStockService, StockService>();
 
 			return services;
 		}

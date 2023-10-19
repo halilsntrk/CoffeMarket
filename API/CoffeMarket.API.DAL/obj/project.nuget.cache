@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nqPuUiek8EjTe4eJl6/DRtaFvsTp6qaD9EekU2ByWJMRWxSMJBveuCL+sSeCLcXtgpZ5sfHzRbd4meZwj7oV9A==",
+  "dgSpecHash": "n7rfkcWLY7fNLROgU5rqC6MiIam/zXg7+B0zLlDaQCi16u9aMBtTDilUrCNwVn2xA3kUl9/DMMPisnfv6wrPuw==",
   "success": true,
-  "projectFilePath": "D:\\Git\\CoffeeMarket\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
+  "projectFilePath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halil\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\halil\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

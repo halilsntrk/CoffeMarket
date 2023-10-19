@@ -27,7 +27,7 @@ namespace CoffeeMarket.API.Controllers
 		//}
 
 
-		[HttpPost("list")]
+		[HttpGet("list")]
 		[ProducesResponseType(typeof(ApiResponse), 200)]
 		public async Task<ApiResponse> List()
 		{
@@ -52,6 +52,15 @@ namespace CoffeeMarket.API.Controllers
 			return new ApiResponse("", new { status = true, data = res }, 200);
 		}
 
-		
+
+		//[HttpPost("createProduct")]
+		//[ProducesResponseType(typeof(ApiResponse), 200)]
+		//public async Task<ApiResponse> CreateNewProduct(ProductRequest product)
+		//{
+		//	var res = await _productManager.Create(product);
+		//	return new ApiResponse("", new { status = true, data = res }, 200);
+		//}
+
+
 	}
 }

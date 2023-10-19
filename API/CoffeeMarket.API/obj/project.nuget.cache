@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P5LUJMU5jzgrjbaEWA8wB/HLwaLbBjFPVZZ2axgZ/gOOTdFTuWvxwdAhb3CXOIyXrKqffSpNg5EoJKDam9NTWg==",
+  "dgSpecHash": "3eg2tlWgbajtU0dKPFueXuobWBL5skvQNwUzCOkENbKtVGU0sxVRTNTIvtzqfx5CZzwGhmL0IPToi7rPYXh58Q==",
   "success": true,
-  "projectFilePath": "D:\\Git\\CoffeeMarket\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
+  "projectFilePath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halil\\.nuget\\packages\\autowrapper.core\\4.5.1\\autowrapper.core.4.5.1.nupkg.sha512",
     "C:\\Users\\halil\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

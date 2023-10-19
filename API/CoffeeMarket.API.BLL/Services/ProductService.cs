@@ -14,13 +14,7 @@ namespace CoffeeMarket.API.BLL.Services
 
 		public async Task<Product> CreateAsync(Product entity)
 		{
-			entity.PR_ID = Guid.NewGuid();
-			var sql = @"INSERT INTO Product (PR_ID,PR_ProductID ,PR_TypeID, PR_Name, PR_Price, PR_ListImage, PR_DetailImage, PR_SpotDetail)
-                    VALUES (@PR_ID,@PR_ProductID,@PR_TypeID, @PR_Name, @PR_Price, @PR_ListImage, @PR_DetailImage, @PR_SpotDetail)";
-
-			await DbQuerySingleAsync<string>(sql, entity);
-
-			return entity;
+			throw new NotImplementedException();
 		}
 
 		public Task<bool> DeleteAsync(object id)

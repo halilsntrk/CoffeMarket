@@ -19,6 +19,8 @@ namespace CoffeeMarket.API
 			builder.Services.AddScoped<ITypeService, TypeService>();
 			builder.Services.AddScoped<ICategoryService, CategoryService>();
 			builder.Services.AddScoped<ICategoryManager, CategoryManager>();
+			builder.Services.AddScoped<IStockManager, StockManager>();
+			builder.Services.AddScoped<IStockService, StockService>();
 
 			builder.Services.AddControllers();
 			// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -35,7 +37,10 @@ namespace CoffeeMarket.API
 			}
 
 			app.UseHttpsRedirection();
-
+			app.UseCors(x => x
+		   .AllowAnyOrigin()
+		   .AllowAnyMethod()
+		   .AllowAnyHeader());
 			app.UseAuthorization();
 
 

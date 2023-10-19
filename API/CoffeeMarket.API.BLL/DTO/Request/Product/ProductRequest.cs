@@ -10,9 +10,9 @@ namespace CoffeeMarket.API.BLL.DTO.Request.Product
     public class ProductRequest
     {
 
-        public string productId { get; set; }
         public string typeId { get; set; }
         public string name { get; set; }
+        public string grammage { get; set; }
         public string price { get; set; }
         public string listImage { get; set; }
         public string detailImage { get; set; }
