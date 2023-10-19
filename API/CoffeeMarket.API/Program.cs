@@ -21,6 +21,8 @@ namespace CoffeeMarket.API
 			builder.Services.AddScoped<ICategoryManager, CategoryManager>();
 			builder.Services.AddScoped<IStockManager, StockManager>();
 			builder.Services.AddScoped<IStockService, StockService>();
+			builder.Services.AddScoped<IOrderService, OrderService>();
+			builder.Services.AddScoped<IOrderManager, OrderManager>();
 
 			builder.Services.AddControllers();
 			// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
