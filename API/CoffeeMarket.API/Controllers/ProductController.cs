@@ -53,14 +53,24 @@ namespace CoffeeMarket.API.Controllers
 		}
 
 
-		//[HttpPost("createProduct")]
-		//[ProducesResponseType(typeof(ApiResponse), 200)]
-		//public async Task<ApiResponse> CreateNewProduct(ProductRequest product)
-		//{
-		//	var res = await _productManager.Create(product);
-		//	return new ApiResponse("", new { status = true, data = res }, 200);
-		//}
+        [HttpGet("search")]
+        [ProducesResponseType(typeof(ApiResponse), 200)]
+        public async Task<ApiResponse> Search(string searchkey)
+        {
+            var res = await _productManager.GetAll();
+			res = res.Where(t => t.name.ToLower().Contains(searchkey.ToLower()) | t.spotDetail.ToLower().Contains(searchkey.ToLower())).ToList();
+            return new ApiResponse("", new { status = true, data = res }, 200);
+        }
 
 
-	}
+        //[HttpPost("createProduct")]
+        //[ProducesResponseType(typeof(ApiResponse), 200)]
+        //public async Task<ApiResponse> CreateNewProduct(ProductRequest product)
+        //{
+        //	var res = await _productManager.Create(product);
+        //	return new ApiResponse("", new { status = true, data = res }, 200);
+        //}
+
+
+    }
 }

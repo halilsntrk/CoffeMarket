@@ -28,3 +28,4 @@ D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.B
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\refint\CoffeeMarket.API.BLL.dll
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.pdb
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\ref\CoffeeMarket.API.BLL.dll
+D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.sourcelink.json

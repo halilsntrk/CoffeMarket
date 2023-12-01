@@ -2,6 +2,7 @@ using CoffeeMarket.API.BLL.Interfaces.Managers;
 using CoffeeMarket.API.BLL.Interfaces.Services;
 using CoffeeMarket.API.BLL.Managers;
 using CoffeeMarket.API.BLL.Services;
+using Microsoft.Extensions.FileProviders;
 
 namespace CoffeeMarket.API
 {
@@ -43,7 +44,13 @@ namespace CoffeeMarket.API
 		   .AllowAnyOrigin()
 		   .AllowAnyMethod()
 		   .AllowAnyHeader());
-			app.UseAuthorization();
+			app.UseStaticFiles(new StaticFileOptions
+            {
+                RequestPath = "/uploads",
+                FileProvider = new PhysicalFileProvider(
+        Path.Combine(Directory.GetCurrentDirectory(), "uploads/"))
+            });
+            app.UseAuthorization();
 
 
 			app.MapControllers();

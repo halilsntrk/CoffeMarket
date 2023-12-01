@@ -166,3 +166,4 @@ D:\Git\CoffeeMarket\API\CoffeeMarket.API\obj\Debug\net7.0\refint\CoffeeMarket.AP
 D:\Git\CoffeeMarket\API\CoffeeMarket.API\obj\Debug\net7.0\CoffeeMarket.API.pdb
 D:\Git\CoffeeMarket\API\CoffeeMarket.API\obj\Debug\net7.0\CoffeeMarket.API.genruntimeconfig.cache
 D:\Git\CoffeeMarket\API\CoffeeMarket.API\obj\Debug\net7.0\ref\CoffeeMarket.API.dll
+D:\Git\CoffeeMarket\API\CoffeeMarket.API\obj\Debug\net7.0\CoffeeMarket.API.sourcelink.json

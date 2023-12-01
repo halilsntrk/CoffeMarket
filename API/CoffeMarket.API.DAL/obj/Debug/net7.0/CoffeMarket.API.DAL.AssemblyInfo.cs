@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeMarket.API.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81d220466e16812baa28887d521ef3de7b9b4b3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeMarket.API.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeMarket.API.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
