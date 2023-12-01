@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGujYI6TtoW8GO60hK78L1mTVLf1rDimNGNbOKA1NWE5A4wHuQ8KpNJ/NP4igihLo4DWVVoCdGk6JZMu0fT70A==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\halil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
