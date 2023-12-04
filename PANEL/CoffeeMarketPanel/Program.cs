@@ -11,8 +11,8 @@ namespace CoffeeMarketPanel
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            //builder.Services.AddEndpointsApiExplorer();
+            //builder.Services.AddSwaggerGen();
             builder.Services.AddControllersWithViews();
             var app = builder.Build();
 
@@ -40,6 +40,18 @@ namespace CoffeeMarketPanel
             defaults: new { controller = "Dashboard" }
             );
 
+
+            app.MapControllerRoute(
+             name: "ekle",
+             pattern: "ekle/{action=Add}",
+             defaults: new { controller = "Product" }
+            );
+
+            app.MapControllerRoute(
+             name: "",
+            pattern: "/{action=Login}",
+             defaults: new { controller = "User" }
+          );
 
             app.MapControllers();
 

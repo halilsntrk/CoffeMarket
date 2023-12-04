@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeMarketPanel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80cb1cef60009d428a6431eb74c4a69f29fd439b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b8e23de310a1743267aefb799d4df1c0e59db73")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeMarketPanel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeMarketPanel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -26,6 +26,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/Product/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/Shared/Includes/Footer/footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluY2x1ZGVzXEZvb3Rlclxmb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,6 +60,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Git/CoffeeMarket/PANEL/CoffeeMarketPanel/Views/_ViewStart.cshtml]
