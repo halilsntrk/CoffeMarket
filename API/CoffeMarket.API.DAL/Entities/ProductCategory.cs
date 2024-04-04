@@ -8,7 +8,7 @@ namespace CoffeMarket.API.DAL.Entities
 {
 	public class ProductCategory
 	{
-        public Guid ProductID { get; set; }
+        public Guid ID { get; set; }
         public string TypeID { get; set; }
         public string CategoryName { get; set; }
     }

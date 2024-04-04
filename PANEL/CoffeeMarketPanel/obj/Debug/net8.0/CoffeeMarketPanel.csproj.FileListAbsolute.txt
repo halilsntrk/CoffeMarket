@@ -1,14 +1,53 @@
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\appsettings.Development.json
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\appsettings.json
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.exe
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.deps.json
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.runtimeconfig.json
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.dll
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.pdb
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\appsettings.Development.json
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\appsettings.json
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.staticwebassets.runtime.json
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.deps.json
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.runtimeconfig.json
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.pdb
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Azure.Core.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Azure.Identity.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.csproj.AssemblyReference.cache
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.GeneratedMSBuildEditorConfig.editorconfig
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.AssemblyInfoInputs.cache
@@ -16,8 +55,6 @@ D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.A
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.csproj.CoreCompileInputs.cache
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.MvcApplicationPartsAssemblyInfo.cs
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.MvcApplicationPartsAssemblyInfo.cache
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.RazorAssemblyInfo.cache
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.RazorAssemblyInfo.cs
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.sourcelink.json
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets.build.json
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets.development.json
@@ -27,9 +64,95 @@ D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets\msb
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeMarketPanel.props
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets.pack.json
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\scopedcss\bundle\CoffeeMarketPanel.styles.css
-D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.csproj.CopyComplete
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.dll
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\refint\CoffeeMarketPanel.dll
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.pdb
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.genruntimeconfig.cache
 D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\ref\CoffeeMarketPanel.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\AutoWrapper.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\libman.json
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\TreblleNetCore.dll
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\app.config
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.dll.config
+D:\Git\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMa.38747067.Up2Date
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\app.config
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\appsettings.Development.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\appsettings.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\libman.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.staticwebassets.runtime.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.exe
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.dll.config
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.deps.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.runtimeconfig.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\CoffeeMarketPanel.pdb
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\AutoWrapper.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Azure.Core.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Azure.Identity.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\TreblleNetCore.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.csproj.AssemblyReference.cache
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.AssemblyInfoInputs.cache
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.AssemblyInfo.cs
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.csproj.CoreCompileInputs.cache
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.sourcelink.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets\msbuild.CoffeeMarketPanel.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets\msbuild.build.CoffeeMarketPanel.props
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoffeeMarketPanel.props
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoffeeMarketPanel.props
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\scopedcss\bundle\CoffeeMarketPanel.styles.css
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMa.38747067.Up2Date
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\refint\CoffeeMarketPanel.dll
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.pdb
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\CoffeeMarketPanel.genruntimeconfig.cache
+D:\Git\Local Projeler\CoffeeMarket\PANEL\CoffeeMarketPanel\obj\Debug\net8.0\ref\CoffeeMarketPanel.dll

@@ -8,7 +8,7 @@ namespace CoffeMarket.API.DAL.Entities
 {
 	public class Order
 	{
-        public Guid OR_ID { get; set; }
+        public Guid ID { get; set; }
 		public string OR_OrderID { get; set; }
 		public List<string> PR_ProductID { get; set; }
 		public DateTime OR_OrderDate { get; set; }

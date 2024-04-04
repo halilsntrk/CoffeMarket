@@ -11,7 +11,7 @@ namespace CoffeeMarket.API.BLL.DTO.Response
 	{
         public ProductCategoryResponse(ProductCategory category)
         {
-            productid = category.ProductID;
+            productid = category.ID;
             categoryname = category.CategoryName;
             typeid = category.TypeID;
         }

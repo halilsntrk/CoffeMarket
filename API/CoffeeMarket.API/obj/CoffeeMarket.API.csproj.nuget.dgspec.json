@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj": {}
+    "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj": {}
   },
   "projects": {
-    "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
+    "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
+        "projectUniqueName": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
         "projectName": "CoffeeMarket.API.BLL",
-        "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
+        "projectPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\obj\\",
+        "outputPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
-                "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj"
+              "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
+                "projectPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj"
               }
             }
           }
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -54,7 +59,7 @@
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -73,18 +78,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj": {
+    "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
+        "projectUniqueName": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
         "projectName": "CoffeeMarket.API",
-        "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
+        "projectPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\CoffeeMarket.API.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API\\obj\\",
+        "outputPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -101,8 +106,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
-                "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj"
+              "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj": {
+                "projectPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj"
               }
             }
           }
@@ -111,6 +116,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -132,6 +142,10 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.7.17, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -157,18 +171,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
+    "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
+        "projectUniqueName": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
         "projectName": "CoffeMarket.API.DAL",
-        "projectPath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
+        "projectPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\CoffeMarket.API.DAL.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\obj\\",
+        "outputPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeMarket.API.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -191,6 +205,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -199,19 +218,19 @@
           "dependencies": {
             "Dapper": {
               "target": "Package",
-              "version": "[2.0.151, )"
+              "version": "[2.1.28, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[8.0.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.5, )"
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
@@ -230,7 +249,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -11,7 +11,7 @@ namespace CoffeeMarket.API.BLL.DTO.Response
 	{
         public ProductResponse(Product product)
         {
-            id = product.PR_ID;
+            id = product.ID;
             productId = product.PR_ProductID;
             typeId = product.PR_TypeID;
             name = product.PR_Name;

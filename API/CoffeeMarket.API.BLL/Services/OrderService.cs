@@ -23,7 +23,7 @@ namespace CoffeeMarket.API.BLL.Services
 				var orderid = new Guid();
 				var id = new Guid();
 				entity.OR_OrderID = orderid.ToString();
-				entity.OR_ID = id;
+				entity.ID = id;
 				var sql = @"INSERT INTO [Order] (OR_ID, OR_OrderID, PR_ProductID,OR_OrderDate,Quantity,Amount,State_Slug) VALUES (@OR_ID,OR_OrderID,PR_ProductID,OR_OrderDate,Quantity, Amount,State_Slug)";
 				var isSuccess = await DbExecuteAsync<_Stock>(sql,entity);
 

@@ -23,9 +23,25 @@ D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.B
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.AssemblyInfoInputs.cache
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.AssemblyInfo.cs
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.csproj.CoreCompileInputs.cache
-D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.csproj.CopyComplete
+D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.sourcelink.json
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.dll
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\refint\CoffeeMarket.API.BLL.dll
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.pdb
 D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\ref\CoffeeMarket.API.BLL.dll
-D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.sourcelink.json
+D:\Git\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMa.12EBAAD2.Up2Date
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\bin\Debug\net7.0\CoffeeMarket.API.BLL.deps.json
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\bin\Debug\net7.0\CoffeeMarket.API.BLL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\bin\Debug\net7.0\CoffeeMarket.API.BLL.pdb
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\bin\Debug\net7.0\CoffeMarket.API.DAL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\bin\Debug\net7.0\CoffeMarket.API.DAL.pdb
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.csproj.AssemblyReference.cache
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.AssemblyInfoInputs.cache
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.AssemblyInfo.cs
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.csproj.CoreCompileInputs.cache
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.sourcelink.json
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMa.12EBAAD2.Up2Date
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\refint\CoffeeMarket.API.BLL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\CoffeeMarket.API.BLL.pdb
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeeMarket.API.BLL\obj\Debug\net7.0\ref\CoffeeMarket.API.BLL.dll

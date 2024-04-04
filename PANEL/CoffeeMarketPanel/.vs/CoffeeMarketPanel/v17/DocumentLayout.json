@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\business\\concrete\\_user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:business\\concrete\\_user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:controllers\\logcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\business\\concrete\\logs\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:business\\concrete\\logs\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\dal\\concrete\\repository[t].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:dal\\concrete\\repository[t].cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\business\\abstract\\logs\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:business\\abstract\\logs\\ilogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\models\\request\\logrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:models\\request\\logrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\models\\response\\log\\logresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:models\\response\\log\\logresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\dal\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:dal\\entities\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:controllers\\producttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\helpers\\generalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:helpers\\generalhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\models\\common\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:models\\common\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|d:\\git\\local projeler\\coffeemarket\\panel\\coffeemarketpanel\\models\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1339D3F6-5E80-415D-BACD-7C3F38744755}|CoffeeMarketPanel.csproj|solutionrelative:models\\request\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogController.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\LogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LogController.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\LogController.cs",
+              "RelativeToolTip": "Controllers\\LogController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:10:22.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Common\\Image.cs",
+              "RelativeDocumentMoniker": "Models\\Common\\Image.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Common\\Image.cs",
+              "RelativeToolTip": "Models\\Common\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:04:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Request\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\ProductRequest.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Request\\ProductRequest.cs",
+              "RelativeToolTip": "Models\\Request\\ProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:36:55.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository[T].cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\DAL\\Concrete\\Repository[T].cs",
+              "RelativeDocumentMoniker": "DAL\\Concrete\\Repository[T].cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\DAL\\Concrete\\Repository[T].cs",
+              "RelativeToolTip": "DAL\\Concrete\\Repository[T].cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:09:13.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T11:02:13.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILogService.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Abstract\\Logs\\ILogService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\Logs\\ILogService.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Abstract\\Logs\\ILogService.cs",
+              "RelativeToolTip": "Business\\Abstract\\Logs\\ILogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:57:32.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Concrete\\Logs\\LogManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\Logs\\LogManager.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Concrete\\Logs\\LogManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\Logs\\LogManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:32:08.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:49:06.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:47:17.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Concrete\\_User\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\_User\\UserManager.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Business\\Concrete\\_User\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\_User\\UserManager.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAADIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:31:58.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductTypeController.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\ProductTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductTypeController.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Controllers\\ProductTypeController.cs",
+              "RelativeToolTip": "Controllers\\ProductTypeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:10:34.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogResponse.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Response\\Log\\LogResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Response\\Log\\LogResponse.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Response\\Log\\LogResponse.cs",
+              "RelativeToolTip": "Models\\Response\\Log\\LogResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:12:34.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogRequest.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Request\\LogRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Request\\LogRequest.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Models\\Request\\LogRequest.cs",
+              "RelativeToolTip": "Models\\Request\\LogRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:12:39.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\DAL\\Entities\\Log.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Log.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\DAL\\Entities\\Log.cs",
+              "RelativeToolTip": "DAL\\Entities\\Log.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:13:13.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneralHelper.cs",
+              "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Helpers\\GeneralHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\GeneralHelper.cs",
+              "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\Helpers\\GeneralHelper.cs",
+              "RelativeToolTip": "Helpers\\GeneralHelper.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:42:58.164Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

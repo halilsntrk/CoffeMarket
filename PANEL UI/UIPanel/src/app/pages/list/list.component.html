@@ -1,0 +1,54 @@
+<app-dashboard class="container col-2"></app-dashboard>
+<div class="container ">
+    <h2 class="">Ürün Tablosu</h2>
+    <table class="table" id="productTable">
+        <thead>
+            <tr class="">
+                <th scope="col">Sıra</th>
+                <th scope="col">Ürün Resmi</th>
+                <th id="name" scope="col">Ürün Adı</th>
+                <th scope="col">Ürün Tipi</th>
+                <th scope="col">Ürün Fiyatı</th>
+                <th scope="col">Ürün Gramajı</th>
+                <th scope="col">Ürün Stok/Adet</th>
+                <th scope="col">İşlem</th>
+            </tr>
+            <tbody class="">
+                <!-- Örnek bir ürün satırı -->
+                @for (product of products; track $index) {
+
+                    <tr >
+                        <th scope="row">{{(products.indexOf(product))+1}}</th>
+                        <th class=""><img src="{{product.imageurl}}" alt="Alternate Text" class="w-10" style="max-width: 100px; max-height: 100px;" /></th>
+                        <td>{{product.name}}</td>
+                        <td>{{product.type}}</td>
+                        <td>{{product.price}}</td>
+                        <td>{{product.grammage}}</td>
+                        <td>{{product.stock}}</td>
+                        <td class="">
+                            <i [id]="'openModalIcon' + product.id" class="bi bi-card-list" style="cursor: pointer;" (click)="openModal(product.id,true)"></i>
+
+                            <!-- Modal -->
+                            <form action="/" method="post">
+                                <div id="myModal{{product.id}}" class="modal  justify-content-center align-items-center ">
+                                    <div class="modal-content">
+                                        <a class="btn btn-dark">Stok Güncelle</a>
+                                        <a class="btn btn-primary">Fiyat Güncelle</a>
+                                        <a [href]="'/delete/' + product.id" class="btn btn-warning">Ürün Marjdan Kaldır</a>
+                                    </div>
+                                </div>
+                                
+                            </form>
+                        
+                        </td>
+                    </tr>
+                }
+               
+            </tbody>
+            
+    </table>
+
+
+
+</div>
+

@@ -11,7 +11,7 @@ namespace CoffeeMarket.API.BLL.DTO.Response.StockRes
 	{
         public StockResponse(_Stock stock)
         {
-			id = stock.PR_ID;
+			id = stock.ID;
 			productid = stock.PR_ProductID;
 			typeid = stock.TypeID;
 			stockcount = stock.Stock;

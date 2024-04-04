@@ -2,6 +2,7 @@ using CoffeeMarket.API.BLL.Interfaces.Managers;
 using CoffeeMarket.API.BLL.Interfaces.Services;
 using CoffeeMarket.API.BLL.Managers;
 using CoffeeMarket.API.BLL.Services;
+using CoffeeMarket.API.DependencyResolver;
 using Microsoft.Extensions.FileProviders;
 
 namespace CoffeeMarket.API
@@ -13,17 +14,7 @@ namespace CoffeeMarket.API
 			var builder = WebApplication.CreateBuilder(args);
 
 			// Add services to the container.
-	
-			builder.Services.AddScoped<IProductManager, ProductManager>();
-			builder.Services.AddScoped<IProductService, ProductService>();
-			builder.Services.AddScoped<ITypeManager, TypeManager>();
-			builder.Services.AddScoped<ITypeService, TypeService>();
-			builder.Services.AddScoped<ICategoryService, CategoryService>();
-			builder.Services.AddScoped<ICategoryManager, CategoryManager>();
-			builder.Services.AddScoped<IStockManager, StockManager>();
-			builder.Services.AddScoped<IStockService, StockService>();
-			builder.Services.AddScoped<IOrderService, OrderService>();
-			builder.Services.AddScoped<IOrderManager, OrderManager>();
+			builder.Services.AddDependency();
 
 			builder.Services.AddControllers();
 			// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -40,7 +31,8 @@ namespace CoffeeMarket.API
 			}
 
 			app.UseHttpsRedirection();
-			app.UseCors(x => x
+            app.MapControllers();
+            app.UseCors(x => x
 		   .AllowAnyOrigin()
 		   .AllowAnyMethod()
 		   .AllowAnyHeader());
@@ -53,7 +45,7 @@ namespace CoffeeMarket.API
             app.UseAuthorization();
 
 
-			app.MapControllers();
+		
 
 			app.Run();
 		}

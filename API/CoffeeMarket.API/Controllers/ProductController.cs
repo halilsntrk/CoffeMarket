@@ -3,6 +3,8 @@ using CoffeeMarket.API.BLL.DTO.Request.Product;
 using CoffeeMarket.API.BLL.Interfaces.Managers;
 using CoffeeMarket.API.DAL.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Distributed;
+using StackExchange.Redis;
 
 namespace CoffeeMarket.API.Controllers
 {
@@ -11,7 +13,6 @@ namespace CoffeeMarket.API.Controllers
 	public class ProductController : ControllerBase
 	{
 		private  IProductManager _productManager;
-
 		public ProductController(IProductManager productManager)
 		{
 			_productManager = productManager;
@@ -35,6 +36,8 @@ namespace CoffeeMarket.API.Controllers
 			return new ApiResponse("", new { status = true, data = res }, 200);
 		}
 
+		
+
 		[HttpPost("getwithtype")]
 		[ProducesResponseType(typeof(ApiResponse), 200)]
 		public async Task<ApiResponse> GetProductWithType(string typeID)
@@ -57,9 +60,14 @@ namespace CoffeeMarket.API.Controllers
         [ProducesResponseType(typeof(ApiResponse), 200)]
         public async Task<ApiResponse> Search(string searchkey)
         {
-            var res = await _productManager.GetAll();
-			res = res.Where(t => t.name.ToLower().Contains(searchkey.ToLower()) | t.spotDetail.ToLower().Contains(searchkey.ToLower())).ToList();
-            return new ApiResponse("", new { status = true, data = res }, 200);
+			if (searchkey.Length>3)
+			{
+                var res = await _productManager.GetAll();
+                res = res.Where(t => t.name.ToLower().Contains(searchkey.ToLower()) | t.spotDetail.ToLower().Contains(searchkey.ToLower())).ToList();
+                return new ApiResponse("", new { status = true, data = res }, 200);
+            }
+            return new ApiResponse("", new { status = false, data = "" }, 200);
+
         }
 
 

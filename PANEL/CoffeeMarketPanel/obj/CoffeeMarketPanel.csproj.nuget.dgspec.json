@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Git\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj": {}
+    "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj": {}
   },
   "projects": {
-    "D:\\Git\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj": {
+    "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Git\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj",
+        "projectUniqueName": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj",
         "projectName": "CoffeeMarketPanel",
-        "projectPath": "D:\\Git\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj",
+        "projectPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\CoffeeMarketPanel.csproj",
         "packagesPath": "C:\\Users\\halil\\.nuget\\packages\\",
-        "outputPath": "D:\\Git\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\obj\\",
+        "outputPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\PANEL\\CoffeeMarketPanel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,15 +34,40 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoWrapper.Core": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "Treblle.Net.Core": {
+              "target": "Package",
+              "version": "[1.0.9, )"
             }
           },
           "imports": [
@@ -64,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
