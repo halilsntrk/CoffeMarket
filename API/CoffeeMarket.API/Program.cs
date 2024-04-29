@@ -23,31 +23,32 @@ namespace CoffeeMarket.API
 
 			var app = builder.Build();
 
-			// Configure the HTTP request pipeline.
+			//Configure the HTTP request pipeline.
 			if (app.Environment.IsDevelopment())
 			{
 				app.UseSwagger();
 				app.UseSwaggerUI();
 			}
-
+			app.UseDeveloperExceptionPage();
 			app.UseHttpsRedirection();
-            app.MapControllers();
-            app.UseCors(x => x
-		   .AllowAnyOrigin()
-		   .AllowAnyMethod()
-		   .AllowAnyHeader());
 			app.UseStaticFiles(new StaticFileOptions
             {
                 RequestPath = "/uploads",
                 FileProvider = new PhysicalFileProvider(
         Path.Combine(Directory.GetCurrentDirectory(), "uploads/"))
             });
+            app.UseRouting();
+
+            app.UseCors(x => x
+           .AllowAnyOrigin()
+           .AllowAnyMethod()
+           .AllowAnyHeader());
             app.UseAuthorization();
+			app.MapDefaultControllerRoute();
 
 
-		
 
-			app.Run();
+            app.Run();
 		}
 	}
 }

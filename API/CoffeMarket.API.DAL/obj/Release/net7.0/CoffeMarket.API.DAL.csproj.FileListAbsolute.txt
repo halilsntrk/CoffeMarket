@@ -1,0 +1,13 @@
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\bin\Release\net7.0\CoffeMarket.API.DAL.deps.json
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\bin\Release\net7.0\CoffeMarket.API.DAL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\bin\Release\net7.0\CoffeMarket.API.DAL.pdb
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.csproj.AssemblyReference.cache
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.AssemblyInfoInputs.cache
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.AssemblyInfo.cs
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.csproj.CoreCompileInputs.cache
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.sourcelink.json
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\refint\CoffeMarket.API.DAL.dll
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\CoffeMarket.API.DAL.pdb
+D:\Git\Local Projeler\CoffeeMarket\API\CoffeMarket.API.DAL\obj\Release\net7.0\ref\CoffeMarket.API.DAL.dll

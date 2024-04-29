@@ -5,7 +5,8 @@ import { inArray } from 'jquery';
   providedIn: 'root',
 })
 export class ProductService {
-  apiUrl: string = 'https://localhost:44337/';
+  // apiUrl: string = 'https://localhost:44337/';
+  apiUrl: string = 'https://panel.coffeemarket.org/api/';
   token : string | null = "";
   constructor() {
 

@@ -8,7 +8,7 @@ using StackExchange.Redis;
 
 namespace CoffeeMarket.API.Controllers
 {
-	[Route("api/[controller]")]
+	[Route("[controller]")]
 	[ApiController]
 	public class ProductController : ControllerBase
 	{
@@ -63,7 +63,7 @@ namespace CoffeeMarket.API.Controllers
 			if (searchkey.Length>3)
 			{
                 var res = await _productManager.GetAll();
-                res = res.Where(t => t.name.ToLower().Contains(searchkey.ToLower()) | t.spotDetail.ToLower().Contains(searchkey.ToLower())).ToList();
+                res = res.Where(t => (t.name != null && t.spotDetail != null) && t.name.ToLower().Contains(searchkey.ToLower()) && t.spotDetail.ToLower().Contains(searchkey.ToLower())).ToList();
                 return new ApiResponse("", new { status = true, data = res }, 200);
             }
             return new ApiResponse("", new { status = false, data = "" }, 200);

@@ -2,7 +2,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.OrderController",
     "Method": "Create",
-    "RelativePath": "api/Order/create",
+    "RelativePath": "Order/create",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -28,7 +28,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.ProductController",
     "Method": "GetProducteDetail",
-    "RelativePath": "api/Product/getProduct",
+    "RelativePath": "Product/getProduct",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -54,7 +54,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.ProductController",
     "Method": "GetProductWithType",
-    "RelativePath": "api/Product/getwithtype",
+    "RelativePath": "Product/getwithtype",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -80,7 +80,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.ProductController",
     "Method": "List",
-    "RelativePath": "api/Product/list",
+    "RelativePath": "Product/list",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -100,7 +100,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.ProductController",
     "Method": "Search",
-    "RelativePath": "api/Product/search",
+    "RelativePath": "Product/search",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -126,7 +126,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.ProductCategoryController",
     "Method": "GetCategoryWithType",
-    "RelativePath": "api/ProductCategory/getwithtype",
+    "RelativePath": "ProductCategory/getwithtype",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -152,7 +152,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.ProductCategoryController",
     "Method": "List",
-    "RelativePath": "api/ProductCategory/list",
+    "RelativePath": "ProductCategory/list",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -172,7 +172,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.StockController",
     "Method": "List",
-    "RelativePath": "api/Stock/list",
+    "RelativePath": "Stock/list",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -192,7 +192,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.TypeController",
     "Method": "GetTypes",
-    "RelativePath": "api/Type/getTypes",
+    "RelativePath": "Type/getTypes",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -218,7 +218,7 @@
   {
     "ContainingType": "CoffeeMarket.API.Controllers.TypeController",
     "Method": "List",
-    "RelativePath": "api/Type/list",
+    "RelativePath": "Type/list",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

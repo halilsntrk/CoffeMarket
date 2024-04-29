@@ -13,7 +13,7 @@ namespace CoffeeMarket.API.BLL.DTO.Response
         {
             id = product.ID;
             productId = product.PR_ProductID;
-            typeId = product.PR_TypeID;
+            typeId = product.PR_TypeID.ToString();
             name = product.PR_Name;
             grammage = product.PR_Grammage;
             price = product.PR_Price;

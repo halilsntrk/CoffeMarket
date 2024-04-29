@@ -7,10 +7,10 @@ import { retry } from 'rxjs';
 })
 export class UserService {
   constructor() {}
-
+  apiUrl: string = 'https://panel.coffeemarket.org/api/';
   //LOGİN İŞLEMİ
   async Login(loginmodel:LoginModel) {
-  return await fetch('https://localhost:44337/login', {
+  return await fetch(this.apiUrl+"login", {
       body: JSON.stringify(loginmodel),
       method: 'POST',
       headers: {

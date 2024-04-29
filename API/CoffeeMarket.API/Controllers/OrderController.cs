@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CoffeeMarket.API.Controllers
 {
-	[Route("api/[controller]")]
+	[Route("/[controller]")]
 	[ApiController]
 	public class OrderController : ControllerBase
 	{

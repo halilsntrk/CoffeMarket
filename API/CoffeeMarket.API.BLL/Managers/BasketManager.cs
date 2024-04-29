@@ -12,7 +12,7 @@ namespace CoffeeMarket.API.BLL.Managers
     {
         public async Task<bool> AddToBasket(ProductToBasket product)
         {
-            var product = 
+            
             throw new NotImplementedException();
         }
 

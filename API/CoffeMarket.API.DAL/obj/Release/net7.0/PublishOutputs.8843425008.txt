@@ -1,0 +1,13 @@
+C:\Users\halil\OneDrive\Masaüstü\coffe\CoffeMarket.API.DAL.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\CoffeMarket.API.DAL.deps.json
+C:\Users\halil\OneDrive\Masaüstü\coffe\CoffeMarket.API.DAL.pdb
+C:\Users\halil\OneDrive\Masaüstü\coffe\Dapper.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\Microsoft.Extensions.Primitives.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\System.Data.SqlClient.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\runtimes\win-arm64\native\sni.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\runtimes\win-x64\native\sni.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\runtimes\win-x86\native\sni.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\halil\OneDrive\Masaüstü\coffe\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

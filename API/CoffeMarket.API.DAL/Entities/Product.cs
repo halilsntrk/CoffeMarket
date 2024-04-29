@@ -7,7 +7,7 @@ namespace CoffeeMarket.API.DAL.Entities
      
         public Guid ID { get; set; }
         public string PR_ProductID { get; set; }
-        public string PR_TypeID { get; set; }
+        public Guid PR_TypeID { get; set; }
         public string PR_Name { get; set; }
         public string PR_Grammage { get; set; }
         public string PR_Price { get; set; }

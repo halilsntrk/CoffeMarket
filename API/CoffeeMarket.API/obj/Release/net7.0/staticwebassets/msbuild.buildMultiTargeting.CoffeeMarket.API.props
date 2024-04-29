@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CoffeeMarket.API.props" />
+</Project>

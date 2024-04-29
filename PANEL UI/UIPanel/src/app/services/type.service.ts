@@ -4,7 +4,8 @@ import { Injectable } from '@angular/core';
   providedIn: 'root'
 })
 export class TypeService {
-  apiUrl: string = 'https://localhost:44337/';
+  // apiUrl: string = 'https://localhost:44337/';
+  apiUrl: string = 'https://panel.coffeemarket.org/api/';
   constructor() { }
 
 
