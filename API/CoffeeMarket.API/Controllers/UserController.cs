@@ -28,8 +28,8 @@ namespace CoffeeMarket.API.Controllers
         {
             //kullanıcı login olduğun sepet oluşur. Yada sepeti varsa o gelir
             _basketManager.CreateBasket("");
-            _userManager.Login();
-            return "";
+            _userManager.Login(req);
+            return string.Empty;
         }
     }
 }

@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DE5098BE-A68F-4262-9D43-CA908DF85F7A}|CoffeeMarket.API.csproj|d:\\git\\local projeler\\coffeemarket\\api\\coffeemarket.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE5098BE-A68F-4262-9D43-CA908DF85F7A}|CoffeeMarket.API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3AA7632E-518C-4C1D-B46F-8473C18A6634}|..\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj|d:\\git\\local projeler\\coffeemarket\\api\\coffeemarket.api.bll\\managers\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AA7632E-518C-4C1D-B46F-8473C18A6634}|..\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj|d:\\git\\local projeler\\coffeemarket\\api\\coffeemarket.api.bll\\interfaces\\managers\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE5098BE-A68F-4262-9D43-CA908DF85F7A}|CoffeeMarket.API.csproj|d:\\git\\local projeler\\coffeemarket\\api\\coffeemarket.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE5098BE-A68F-4262-9D43-CA908DF85F7A}|CoffeeMarket.API.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AA7632E-518C-4C1D-B46F-8473C18A6634}|..\\CoffeeMarket.API.BLL\\CoffeeMarket.API.BLL.csproj|d:\\git\\local projeler\\coffeemarket\\api\\coffeemarket.api.bll\\dto\\response\\userres\\userloginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -130,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,8 +146,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\DTO\\Response\\UserRes\\UserLoginResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:52:08.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:52:08.717Z"
             },
             {
               "$type": "Document",
@@ -159,8 +158,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Managers\\IBasketManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:51.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:51.245Z"
             },
             {
               "$type": "Document",
@@ -172,8 +170,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Managers\\ICategoryManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:50.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:50.676Z"
             },
             {
               "$type": "Document",
@@ -185,8 +182,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Services\\IProductService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:38.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:38.848Z"
             },
             {
               "$type": "Document",
@@ -198,8 +194,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Services\\IBasketService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:34.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:34.358Z"
             },
             {
               "$type": "Document",
@@ -211,25 +206,24 @@
               "RelativeToolTip": "Controllers\\BasketController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:29:55.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:29:55.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwB4AAAAeAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T20:30:41.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IUserManager.cs",
               "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\Interfaces\\Managers\\IUserManager.cs",
               "RelativeDocumentMoniker": "..\\CoffeeMarket.API.BLL\\Interfaces\\Managers\\IUserManager.cs",
@@ -237,12 +231,11 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Managers\\IUserManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:38:28.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:38:28.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserManager.cs",
               "DocumentMoniker": "D:\\Git\\Local Projeler\\CoffeeMarket\\API\\CoffeeMarket.API.BLL\\Managers\\UserManager.cs",
               "RelativeDocumentMoniker": "..\\CoffeeMarket.API.BLL\\Managers\\UserManager.cs",
@@ -263,8 +256,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Services\\ICategoryService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:33.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:33.955Z"
             },
             {
               "$type": "Document",
@@ -276,8 +268,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Managers\\BasketManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:31.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:31.084Z"
             },
             {
               "$type": "Document",
@@ -289,8 +280,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Services\\BasketService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:43:27.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:43:27.819Z"
             },
             {
               "$type": "Document",
@@ -302,8 +292,7 @@
               "RelativeToolTip": "..\\CoffeMarket.API.DAL\\Entities\\Basket.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:42:38.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:42:38.307Z"
             },
             {
               "$type": "Document",
@@ -315,8 +304,7 @@
               "RelativeToolTip": "Controllers\\StockController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:40:52.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:40:52.079Z"
             },
             {
               "$type": "Document",
@@ -328,8 +316,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Services\\StockService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:39:34.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:39:34.59Z"
             },
             {
               "$type": "Document",
@@ -341,8 +328,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Services\\UserService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:39:33.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:39:33.432Z"
             },
             {
               "$type": "Document",
@@ -354,8 +340,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Managers\\TypeManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:39:08.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:39:08.721Z"
             },
             {
               "$type": "Document",
@@ -367,8 +352,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\BLLServiceConfiguration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:36:06.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:36:06.79Z"
             },
             {
               "$type": "Document",
@@ -380,8 +364,7 @@
               "RelativeToolTip": "..\\CoffeMarket.API.DAL\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T09:38:56.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T09:38:56.318Z"
             },
             {
               "$type": "Document",
@@ -393,8 +376,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Managers\\IStockManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:38:33.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:38:33.006Z"
             },
             {
               "$type": "Document",
@@ -406,8 +388,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Managers\\ProductManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:37:43.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:37:43.563Z"
             },
             {
               "$type": "Document",
@@ -419,8 +400,7 @@
               "RelativeToolTip": "..\\CoffeMarket.API.DAL\\Entities\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:36:17.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:36:17.359Z"
             },
             {
               "$type": "Document",
@@ -432,8 +412,7 @@
               "RelativeToolTip": "..\\CoffeMarket.API.DAL\\Entities\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:36:40.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:36:40.622Z"
             },
             {
               "$type": "Document",
@@ -445,8 +424,7 @@
               "RelativeToolTip": "..\\CoffeMarket.API.DAL\\Entities\\ProductCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:36:28.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:36:28.903Z"
             },
             {
               "$type": "Document",
@@ -458,8 +436,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Services\\ITypeService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:35:45.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:35:45.349Z"
             },
             {
               "$type": "Document",
@@ -471,8 +448,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\Interfaces\\Services\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:35:40.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:35:40.448Z"
             },
             {
               "$type": "Document",
@@ -484,8 +460,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\DTO\\Request\\User\\UserCreateRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:34:18.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:34:18.287Z"
             },
             {
               "$type": "Document",
@@ -497,8 +472,7 @@
               "RelativeToolTip": "..\\CoffeeMarket.API.BLL\\DTO\\Request\\User\\UserLoginRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T20:32:34.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T20:32:34.47Z"
             },
             {
               "$type": "Document",
@@ -581,8 +555,7 @@
               "RelativeToolTip": "Controllers\\ProductController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T14:53:50.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T14:53:50.285Z"
             },
             {
               "$type": "Document",

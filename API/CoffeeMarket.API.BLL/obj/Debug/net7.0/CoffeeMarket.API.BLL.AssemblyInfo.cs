@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoffeeMarket.API.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2970c23bb616e02d75002ff72ecdbcba5b076a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48e835c56c50ac758fcb17ab5400900653b4adf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoffeeMarket.API.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoffeeMarket.API.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
