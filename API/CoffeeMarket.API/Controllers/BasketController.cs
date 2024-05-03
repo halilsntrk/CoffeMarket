@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Mvc;
 namespace CoffeeMarket.API.Controllers
 {
     [Authorize]
+    [Route("/[controller]")]
+    [ApiController]
     public class BasketController : Controller
     {
         private readonly IBasketManager _basketManager;
@@ -15,11 +17,11 @@ namespace CoffeeMarket.API.Controllers
         }
 
         //Sepetin ilk oluşumu
-        public IActionResult Create(string token)
+        public bool Create(string token)
         {
             //token çözümleme
             _basketManager.CreateBasket(token);
-            return View();
+            return true;
         }
         //Sepete ürün ekleme
         public IActionResult Add([FromBody] ProductToBasket product)

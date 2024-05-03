@@ -18,6 +18,7 @@ namespace CoffeeMarket.API.BLL
 		{
 			services.AddScoped<IProductService, ProductService>();
 			services.AddScoped<IStockService, StockService>();
+			services.AddScoped<IUserService, UserService>();
 
 			return services;
 		}
